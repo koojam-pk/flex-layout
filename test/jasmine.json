@@ -1,0 +1,33 @@
+{
+  "spec_dir": "dist/packages/flex-layout",
+  "spec_files": [
+    "api/core/base-adapter.spec.js",
+    "api/core/responsive-activation.spec.js",
+
+    "api/flexbox/flex.spec.js",
+    "api/flexbox/flex-offset.spec.js",
+
+    "api/flexbox/layout.spec.js",
+    "api/flexbox/layout-align.spec.js",
+
+    "api/ext/img-src.spec.js",
+    "api/ext/class.spec.js",
+
+    "media-query/breakpoints/break-point-registry.spec.js",
+    "media-query/breakpoints/data/break-points.spec.js",
+    "media-query/breakpoints/data/orientation-break-points.spec.js",
+    "media-query/mock/mock-match-media.spec.js",
+    "media-query/match-media.spec.js",
+    "media-query/media-monitor.spec.js",
+    "media-query/observable-media.spec.js",
+
+    "utils/styling/style-transforms.spec.js",
+    "utils/auto-prefixer.spec.js",
+    "utils/basis-validator.spec.js",
+    "utils/breakpoint-tools.spec.js",
+    "utils/object-extend.spec.js"
+  ],
+
+  "captureConsole": true,
+  "random": true
+}
